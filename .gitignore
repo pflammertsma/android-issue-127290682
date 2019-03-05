@@ -39,9 +39,6 @@ captures/
 .idea/inspectionProfiles/
 /.idea/
 
-# Keystore files
-*.jks
-
 # OS X
 .DS_Store
 
